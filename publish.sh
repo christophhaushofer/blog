@@ -10,7 +10,7 @@ sourcePath="/Users/Privat/Obsidian/Notebook/myWebsite/Blog/post/"
 destinationPath="/Users/Privat/Projects/myWebsite/Blog/content/post"
 
 # Set GitHub Repo
-myrepo="blog"
+myrepo="https://github.com/christophhaushofer/blog"
 
 # Check for required commands
 for cmd in git rsync python3 hugo; do
