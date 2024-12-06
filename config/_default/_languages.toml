@@ -4,3 +4,8 @@ languageName = "English"
 languagedirection = "ltr"
 title = "Example Site"
 weight = 1
+[de]
+languageName = "German"
+languagedirection = "ltr"
+title = "Beispiel Seite"
+weight = 1
