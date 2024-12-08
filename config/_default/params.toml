@@ -5,7 +5,7 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
+since = 2023
 customText = ""
 
 [dateFormat]
@@ -14,7 +14,7 @@ lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
 #emoji = "🍥"
-subtitle = "Welcome to my blog, exploring AI, tools, and their practical uses."
+subtitle = "Welcome to my blog, exploring AI, tools, and their practical applications."
 
 [sidebar.avatar]
 enabled = true
@@ -27,7 +27,7 @@ math = true
 readingTime = true
 
 [article.license]
-enabled = true
+enabled = false
 default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
@@ -76,7 +76,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [comments.disqusjs]

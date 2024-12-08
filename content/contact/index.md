@@ -16,9 +16,12 @@ input, textarea {
     border: 1px solid #ddd;
     border-radius: 4px;
 }
+textarea {
+    height: 150px; /* Adjust this value to your desired height */
+}
 button {
-    background-color: auto;
-    color: !currentColor;
+    background-color: #ababab;
+    color: !#ababab;
     padding: 10px 15px;
     border: none;
     cursor: pointer;

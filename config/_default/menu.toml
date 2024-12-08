@@ -6,12 +6,20 @@
 #[main.params]
 #icon = "home"
 #newtab = true
-[[main]]
-name = "Contact"
-url = "/contact"
-weight = 5
-[main.params]
-icon = "envelope-closed-svgrepo-com"
+
+#[[main]]
+#name = "Contact"
+#url = "/contact"
+#weight = 5
+#[main.params]
+#icon = "envelope-closed-svgrepo-com"
+
+#[[main]]
+#name = "Hot Repos"
+#url = "/hot_repos"
+#weight = 5
+#[main.params]
+#icon = "fire-body-svgrepo-com"
 
 [[social]]
 identifier = "github"
@@ -20,8 +28,6 @@ url = "https://github.com/christophhaushofer/"
 
 [social.params]
 icon = "brand-github"
-name = "envelope"
-url = "mailto:your-email@example.com"
 weight = 30
 
 [[social]]
@@ -31,3 +37,12 @@ url = "https://www.linkedin.com/in/christophhaushofer/"
 
 [social.params]
 icon = "linkedin-svgrepo-com"
+
+[[social]]
+identifier = "email"
+name = "E-Mail"
+url = "/contact"
+weight = 50
+
+[social.params]
+icon = "envelope-closed-svgrepo-com"
