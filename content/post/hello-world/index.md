@@ -6,13 +6,10 @@ date: 2024-12-06 11:43:33+0100
 image: 1.jpg
 categories:
   - test
-  - test1
 tags: 
 weight: 1
 ---
 
-# Hello this is my test-post
+# Hello this is just a test
 
-This is just a test post
-
-+++
+testing the template and github action
