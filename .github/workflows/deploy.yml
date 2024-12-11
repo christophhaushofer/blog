@@ -41,7 +41,7 @@ jobs:
 
             - name: Build
               env:
-                HUGO_BASEURL: https://www.haushofer.dev/blog/
+                HUGO_BASEURL: https://www.haushofer.dev/
               run: | 
                 hugo --minify --gc
                 echo 'www.haushofer.dev' > public/CNAME

@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseURL = "https://www.haushofer.dev/blog/"
+baseURL = "https://www.haushofer.dev/"
 languageCode = "en-us"
 title = "Christoph Haushofer"
 
