@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://christophhaushofer.github.io/blog"
+baseURL = "https://www.haushofer.dev/blog/"
 languageCode = "en-us"
 title = "Christoph Haushofer"
 
@@ -19,4 +19,4 @@ pagerSize = 5
 
 [services]
   [services.googleAnalytics]
-    id = 'G-FRM73CW1T1'
+    id = 'G-FRM73CW1T1' 

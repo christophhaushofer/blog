@@ -59,6 +59,8 @@ type = "toc"
 site = ""
 card = "summary_large_image"
 
+[opengraph.linkedin]
+site = "https://www.linkedin.com/in/christophhaushofer/"
 [defaultImage.opengraph]
 enabled = false
 local = false

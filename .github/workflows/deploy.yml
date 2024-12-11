@@ -41,6 +41,7 @@ jobs:
 
             - name: Build
               run: hugo --minify --gc
+              echo 'www.haushofer.dev' > public/CNAME
 
             - name: Deploy 🚀
               uses: JamesIves/github-pages-deploy-action@v4
